@@ -2,6 +2,11 @@
 
 Here's a quick overview of the new features in the latest versions of the package.
 
+## v0.2.0
+
+* Added the `DispatchesOn` **Model** attribute.
+* Improved the caching of the Reflection Attributes for Models to improve performance.
+
 ## v0.1.0
 
 * Added the `Cast` **Model** attribute.
