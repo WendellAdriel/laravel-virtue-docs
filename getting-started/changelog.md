@@ -4,6 +4,7 @@ Here's a quick overview of the new features in the latest versions of the packag
 
 ## v0.3.0
 
+* Added the `Argument` **Command** attribute.
 * Added the `OptionalArgument` **Command** attribute.
 * Added the `RequiredArgument` **Command** attribute.
 * Added the `FlagOption` **Command** attribute.
