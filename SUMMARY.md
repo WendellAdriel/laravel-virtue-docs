@@ -17,3 +17,9 @@
 * [Hidden](model-attributes/hidden.md)
 * [Primary Key](model-attributes/primary-key.md)
 * [Relationships](model-attributes/relationships.md)
+
+## 💻 COMMAND ATTRIBUTES
+
+* [Configuration](command-attributes/configuration.md)
+* [Defining Arguments](command-attributes/defining-arguments.md)
+* [Defining Options](command-attributes/defining-options.md)

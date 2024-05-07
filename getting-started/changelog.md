@@ -2,6 +2,13 @@
 
 Here's a quick overview of the new features in the latest versions of the package.
 
+## v0.3.0
+
+* Added the `OptionalArgument` **Command** attribute.
+* Added the `RequiredArgument` **Command** attribute.
+* Added the `FlagOption` **Command** attribute.
+* Added the `ValueOption` **Command** attribute.
+
 ## v0.2.0
 
 * Added the `DispatchesOn` **Model** attribute.
